@@ -17,8 +17,15 @@
 	</dict>
 	<key>method</key>
 	<string>development</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.thauber.contracting.ridecabin.CabinDrive</key>
+		<string>Cabin Test Profile</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>80C51AF5662C8EA5F07098862B507B13F6AB11D2</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
