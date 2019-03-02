@@ -23,7 +23,7 @@
 		<string>Cabin Test Profile</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>80C51AF5662C8EA5F07098862B507B13F6AB11D2</string>
+	<string>iPhone Developer</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
