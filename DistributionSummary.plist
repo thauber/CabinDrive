@@ -13,14 +13,34 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string></string>
+				<string>80C51AF5662C8EA5F07098862B507B13F6AB11D2</string>
 				<key>dateExpires</key>
-				<string></string>
+				<string>2/17/20</string>
 				<key>type</key>
-				<string>Unknown</string>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YL8V6Q58L2.com.thauber.contracting.ridecabin.CabinDrive</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YL8V6Q58L2</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>YL8V6Q58L2.com.thauber.contracting.ridecabin.CabinDrive</string>
+				</array>
 			</dict>
 			<key>name</key>
 			<string>DriverApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b6a711aa-220e-4a93-af78-5ae16a57f9e1</string>
+				<key>name</key>
+				<string>Cabin Test Profile</string>
+			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
